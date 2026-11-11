@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# AI-tool files (never push)
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+.mcp.json
